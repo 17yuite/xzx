@@ -1,2 +1,2 @@
 # xzx
-Help xzx automate transactions
+Help xzx automated deployment service
